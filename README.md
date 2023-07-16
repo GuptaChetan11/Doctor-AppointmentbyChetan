@@ -1,4 +1,4 @@
-# SOM-Doctor-Appointmnet-System-Mern-roject
+# CHETAN-Doctor-Appointmnet-System-Mern-roject
 
 Mern Stack Doctor appointment system project code
 
